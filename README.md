@@ -56,11 +56,14 @@ Y_test=scaler_Y.inverse_transform(Y_test)
 mse=mean_squared_error(Y_test,Y_pred)
 print("Mean Squared Error:",mse)
 print("\nPredictions:\n",Y_pred[:5])
+print("Name:  Pragadeeswaran L")
+print("Reg No: 212223240120")
 
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/c7b4366e-546b-445b-a4fc-0d1169d5d97c)
+![image](https://github.com/user-attachments/assets/37714bee-f7d3-4933-9615-502fd7b714a4)
+
 
 
 ## Result:
